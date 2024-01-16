@@ -2,8 +2,6 @@
 
 I'm a data analyst based in Ridgefield, Connecticut. A fellow University of California, Santa Cruz slug, I majored in Business Management Economics. I'm keen on any conversations that involve people analytics, AWS, and data engineering. In my spare time you'll find me outside at a park with my three children. 
 
-**Check out my featured projects below and my website [here](https://www.luisveraonline.com/).**
-
 ## Medium Articles
 
 - [Welcome to the AWS Community Builders Program](https://veraluis4.medium.com/welcome-to-the-aws-community-builders-program-b8ca0c8d07d8)
@@ -29,4 +27,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+**Check out my featured projects below and my website [here](https://www.luisveraonline.com/).**
 -->
