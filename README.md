@@ -11,7 +11,7 @@ I'm a data analyst based in Ridgefield, Connecticut. A fellow University of Cali
 
 ## Let's Connect
 
-<a href="https://www.linkedin.com/in/luis-vera-93512116a/"><img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" alt="luisvera linkedin" width="50"/>&nbsp;&nbsp;&nbsp;<a href ="https://veraluis4.medium.com/"><img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" alt="medium profile" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/ludawg4"><img src="https://www.pinclipart.com/picdir/big/20-203122_follow-us-twitter-logo-square-png-clipart.png" alt="@ludawg4" width = "53">&nbsp;&nbsp;&nbsp;<a href="mailto:veraluis4@gmail.com"><img src="https://www.iconarchive.com/download/i78210/igh0zt/ios7-style-metro-ui/MetroUI-Google-Gmail.ico" alt="luisvera gmail" width="58"/>
+<a href="https://www.linkedin.com/in/luis-vera-93512116a/"><img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" alt="luisvera linkedin" width="50"/>&nbsp;&nbsp;&nbsp;<a href ="https://veraluis4.medium.com/"><img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" alt="medium profile" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/ludawg4"><img src="https://www.pinclipart.com/picdir/big/20-203122_follow-us-twitter-logo-square-png-clipart.png" alt="@ludawg4" width = "53">&nbsp;&nbsp;&nbsp;<a href="mailto:veraluis4@gmail.com">
 
 
 
