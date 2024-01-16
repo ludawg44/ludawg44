@@ -1,13 +1,13 @@
 ### Hello there 👋🏽
 
-I'm a data analyst based in Brooklyn, NY with a background in Business Management Economics. I'm keen on any conversations that involve people analytics, AWS, and data engineering. In my spare time you'll find me outside at a park with my two children. 
+I'm a data analyst based in Ridgefield, Connecticut. A fellow University of California, Santa Cruz slug, I majored in Business Management Economics. I'm keen on any conversations that involve people analytics, AWS, and data engineering. In my spare time you'll find me outside at a park with my three children. 
 
 **Check out my featured projects below and my website [here](https://www.luisveraonline.com/).**
 
 ## Medium Articles
 
 - [Welcome to the AWS Community Builders Program](https://veraluis4.medium.com/welcome-to-the-aws-community-builders-program-b8ca0c8d07d8)
-- More coming soon!
+- Coming soon!
 
 ## Let's Connect
 
