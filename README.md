@@ -1,7 +1,8 @@
 ### Hello there 👋🏽
 
-I'm a data analyst based in Connecticut. A fellow UCSC slug, I majored in Business Management Economics. I'm keen on people analytics, AWS, and data engineering conversations. In my spare time, you'll find me as a chauffeur for my kids. 
-
+- 💬 Ask me about People Analytics and Strategic Workforce Planning (SWP).
+- 🔭 I’m currently working on showcasing SWP concepts through Streamlit.
+  
 <!--
 **ludawg44/ludawg44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
